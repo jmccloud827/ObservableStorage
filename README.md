@@ -22,7 +22,7 @@ You can add this package to your Xcode project using Swift Package Manager. Foll
 
 1. Open your Xcode project.
 2. Select `File` > `Swift Packages` > `Add Package Dependency`.
-3. Enter the repository URL: `https://github.com/yourusername/ObservableStorage.git`.
+3. Enter the repository URL: `https://github.com/jmccloud827/ObservableStorage.git`.
 4. Choose the version or branch you would like to use.
 5. Click `Finish`.
 
