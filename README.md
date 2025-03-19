@@ -31,6 +31,7 @@ You can add this package to your Xcode project using Swift Package Manager. Foll
 To use the `@ObservableAppStorage` or `@ObservableKeychain` macro, simply annotate your variable with the macro and provide the necessary parameters.
 
 ### Example
+```swift
 import ObservableStorage
 
 @ObservationIgnored
@@ -41,6 +42,7 @@ var username: String = "Guest"
 @ObservationIgnored
 @ObservableKeychain(key: "password")
 var password: String = "Some Secure Passowrd"
+```
 
 ## License
 
